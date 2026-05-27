@@ -1,0 +1,19 @@
+{
+  "name": "Panosta",
+  "short_name": "Panosta",
+  "theme_color": "",
+  "background_color": "#000408",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1779894382-favcino.svg",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
